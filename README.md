@@ -1,4 +1,8 @@
-# React + Vite
+#
+Projeto desenvolvido em React + Vite durante as aulas do Vai Na Web
+
+https://doceria-borcelle.vercel.app/
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
